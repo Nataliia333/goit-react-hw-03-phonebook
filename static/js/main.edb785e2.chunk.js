@@ -1,0 +1,2 @@
+(this["webpackJsonpgoit-react-hw-03-phonebook"]=this["webpackJsonpgoit-react-hw-03-phonebook"]||[]).push([[0],{10:function(t,e,o){"use strict";o.r(e);var n=o(0),c=o.n(n),r=o(3),i=o.n(r);o(8);var s=function(){},a=o(2);i.a.render(Object(a.jsx)(c.a.StrictMode,{children:Object(a.jsx)(s,{})}),document.getElementById("root"))},8:function(t,e,o){}},[[10,1,2]]]);
+//# sourceMappingURL=main.edb785e2.chunk.js.map
